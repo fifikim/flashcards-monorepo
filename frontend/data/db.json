@@ -1,0 +1,137 @@
+{
+  "decks": [
+    {
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation.",
+      "id": 3
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "front": "dfdfdf update",
+      "back": "dfjdkf",
+      "name": "update",
+      "description": "dkdfjd"
+    },
+    {
+      "name": "dfdf",
+      "description": "dfdfddfdf update",
+      "id": 6
+    },
+    {
+      "name": "Ted ",
+      "description": "lil bear",
+      "id": 8
+    },
+    {
+      "name": "teddy",
+      "description": "maybe",
+      "id": 9
+    }
+  ],
+  "cards": [
+    {
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 3,
+      "id": 6
+    },
+    {
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 3,
+      "id": 7
+    },
+    {
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 3,
+      "id": 8
+    },
+    {
+      "front": "What path will match the follow Route?\\n<Route>\\n  <NotFound />\\n</Route>",
+      "back": "All paths. A route with no path matches all URL's",
+      "deckId": 4,
+      "id": 9
+    },
+    {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route>",
+      "deckId": 4,
+      "id": 10
+    },
+    {
+      "front": "b",
+      "back": "b",
+      "deckId": 3,
+      "id": 11
+    },
+    {
+      "id": 12,
+      "front": "dfdfd update",
+      "back": "fdfdjhj"
+    },
+    {
+      "id": 13,
+      "front": "nhjiuo ",
+      "back": "dfdfd",
+      "deckId": "3"
+    },
+    {
+      "id": 14,
+      "front": "dfdfdfj updaate"
+    },
+    {
+      "id": 15,
+      "front": "update dfdf ",
+      "deckId": "5"
+    },
+    {
+      "id": 16,
+      "front": "dfdfd",
+      "back": "dfdfd"
+    },
+    {
+      "id": 17,
+      "back": "dfsf update"
+    },
+    {
+      "back": "update",
+      "id": 18
+    },
+    {
+      "front": "dfdf update",
+      "back": "dfdf ",
+      "id": 19
+    },
+    {
+      "front": "d333 update",
+      "back": "wewe",
+      "deckId": 5,
+      "id": 21
+    },
+    {
+      "front": "dfdf",
+      "back": "dfdfd",
+      "deckId": 6,
+      "id": 24
+    },
+    {
+      "front": "foo",
+      "back": "bar",
+      "deckId": 8,
+      "id": 25
+    },
+    {
+      "cards": [],
+      "front": "dfdf",
+      "back": "dfdf",
+      "deckId": 6,
+      "id": 26
+    }
+  ]
+}
